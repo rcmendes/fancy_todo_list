@@ -1,2 +1,2 @@
 from .user_repository import SQLiteUserRepository
-from .config import create_database
+from .config import create_database, drop_database
